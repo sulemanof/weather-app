@@ -39,7 +39,7 @@ thead {
 .button {
     margin: 30px;
     height: 40px;
-    border: 2px solid grey;
+    border: 2px solid rgb(192, 26, 233);
     border-radius: 10px;
     width: 60px;
     font-family: cursive;

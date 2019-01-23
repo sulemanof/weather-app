@@ -7,6 +7,9 @@ const button = $('#button');
 const tbody = $('#tbody');
 const tdata = $('#tableData');
 
+console.log('pasha');
+
+
 const createRawData = ({ current, location }) => {
   if (!location || !current) return;
 
